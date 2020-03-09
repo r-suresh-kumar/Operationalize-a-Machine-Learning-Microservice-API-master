@@ -1,4 +1,8 @@
-[![CircleCI](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API)
+[![CircleCI](https://circleci.com/gh/rradi/Operationalize-a-Machine-Learning-Microservice-API-master.svg?style=svg)](https://circleci.com/gh/rradi/Operationalize-a-Machine-Learning-Microservice-API-master)
+
+https://app.circleci.com/pipelines/github/rradi/Operationalize-a-Machine-Learning-Microservice-API-master
+
+
 # Operationalize-a-Machine-Learning-Microservice-API
 Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
 
